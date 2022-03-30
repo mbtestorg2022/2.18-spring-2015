@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two X's, labeled X1 and X2, that represent two master regulator genes.
     Each X has a pointed arrow that originates and points to itself, and a flat arrow
     that points to the other X.
+parent_uid: 5ad3d098-4510-d34f-faad-b7804a0ff001
 resourcetype: Image
 title: image.jpg
 uid: a5bc1e58-42b3-f775-c30a-a3282f3a890b

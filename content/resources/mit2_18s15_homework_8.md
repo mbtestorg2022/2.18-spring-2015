@@ -4,6 +4,7 @@ description: This is a file that contains information regarding biomolecular fee
   systems homework 8.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-18-biomolecular-feedback-systems-spring-2015/36da4a36fc70c46c952064591b9f71db_MIT2_18S15_Homework_8.pdf
 file_type: application/pdf
+parent_uid: 74de7b80-4edf-0bb6-e964-a7238fadc4a3
 resourcetype: Document
 title: Biomolecular Feedback Systems Homework 8
 uid: 36da4a36-fc70-c46c-9520-64591b9f71db
